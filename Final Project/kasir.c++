@@ -9,7 +9,7 @@ main(){
     string pilih,nama;
 
     cout<<"--------------------------------------"<<endl;
-    cout<<"|          Minimarket Bolawen        |"<<endl;
+    cout<<"|          Minimarket Koh Bima        |"<<endl;
     cout<<"--------------------------------------"<<endl;
 
     cout<<"Member atau non member <ya/tdk>: ";cin>>pilih;
